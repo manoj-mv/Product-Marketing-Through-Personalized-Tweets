@@ -1,0 +1,6 @@
+1987 Firebird Trans Am Won't Start
+You say it's a stroked 383, but what fuel delivery system? Is it fuel injected or carbureted? If fuel injection, is it throttle body or multi-port? Throttle body injection uses a housing very similar to a carburetor, but with 2-4 injectors on top. Multi-port will have one injector per cylinder.
+
+As mat163 has suggested, the first step based on what you're saying is to check fuel delivery. Listen for a 2-3 second "priming" run from the fuel pump when you turn the key on. Make sure you're getting battery voltage to the fuel pump, and also check ground. A voltage drop test here will tell you if everything is peachy at the pump.
+
+From there, ensure the fuel delivery system is receiving fuel. If it's fuel injection, a pressure and flow test is absolutely mandatory. You'll also need to make sure the injectors are firing.

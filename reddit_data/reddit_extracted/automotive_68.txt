@@ -1,0 +1,2 @@
+Any automotive ECU simulator network for infotainment applications?
+Depending on what unit(s) your trying to simulate, in many cases a lot of what you listed are just hi/lo signals into the bcm and commonly then sends a message via can to the instrument cluster/display area. Which spot are you having trouble simulating?actually use it in a vehicle you would need to buy the 135 dollar cable for it... buy you could still use the simulation... PM me if u want to do this

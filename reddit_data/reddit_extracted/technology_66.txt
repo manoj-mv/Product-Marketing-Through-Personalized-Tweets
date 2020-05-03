@@ -1,0 +1,2 @@
+New Bill Promises an End to Our Privacy Nightmare, Jail Time to CEOs Who Lie: "Mark Zuckerberg won’t take Americans’ privacy seriously unless he feels personal consequences. Under my bill he’d face jail time for lying to the government," Sen. Ron Wyden said.
+Explaining how data are processed is likely impossible for all intents and purposes. Many firms use ML to extract insights from big data, creating a step-by-step explanation would just be infeasible.

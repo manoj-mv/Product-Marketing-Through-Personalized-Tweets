@@ -1,0 +1,12 @@
+Due to excessive lobbying from FPL, Florida residents without power due to the hurricane are not permitted to use their own solar panels
+In this thread: tons of people who don't understand electrical isolation and safety practices. 
+
+Normally power only comes from the distribution system. So if a line goes down between the main distribution system and your house, one breaker trips the line off to prevent electrified downed lines and electric fires. 
+
+If your solar panels are on the grid, even if the main feed breaker to your neighborhood trips, your panels will keep backfeeding electricity. If your lines are down somewhere or a transformer is faulted, your solar panels can drive the fault and cause significant damage. 
+
+One easy way to protect against this is to require the panels to have a synchronization signal from the grid. If it sees the grid go down, the panels trip off as well. This is an electrical safety issue. 
+
+It's not the only solution. There are products that detect something down on the grid and transfer to house power only. But you also need batteries and a higher cost system. Lower cost systems may not be capable of maintaining proper frequency without the grid there. And with no batteries you can damage stuff in your house if the power/load mismatch is too great. 
+
+This isn't as simple as greedy corporation. I'm not ruling out that fpl may be greedy and dumb. But this is a very complicated issue. 

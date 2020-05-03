@@ -1,0 +1,4 @@
+Is it ok to patch punture close to another?
+Was the previous repair a patch or a plug?
+
+Not an expert,  but I'd wonder also about balance issues brought about by two patches close together.   So maybe not just an integrity issue. 

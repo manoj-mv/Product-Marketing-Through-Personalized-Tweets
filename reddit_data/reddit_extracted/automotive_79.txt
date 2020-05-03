@@ -1,0 +1,8 @@
+Car won't crank while jumped but bridging the starter relay turns the starter.
+I'd guess the voltage was too low for the relay to engage on its own and you had a poor jump connection.  When you forced the relay manually that presented pretty much a dead short to the jump, which caused the jumper connection to arc, creating a reliable connection.
+
+Quick tip: if you can afford the time, it's really best to put the jumper cables on the car and let the dead battery charge for 15 minutes.
+
+Really good jumper cables are a lifetime investment, btw.
+
+Good experiment with the relays.

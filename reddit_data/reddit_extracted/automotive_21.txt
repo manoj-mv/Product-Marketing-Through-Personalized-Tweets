@@ -1,0 +1,10 @@
+Pep Boys lying?
+How was window performance prior to the malfunction? 
+
+Is there any movement or activity from the motor when you push the button?
+
+Regardless, if it were the sensor, you're still SOL since it's often built into the motor unit. 
+
+You can test the motor at home by jumping the motor leads and seeing if you can actuate it manually. This would require removing the door panel.
+
+You would need to ask before the work is done for the part back, and sometimes that's not possible due to core returns, but on a window regulator that's probably not  an issue.
